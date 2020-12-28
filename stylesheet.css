@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:darkgray;
+}
+header{
+	background-color:black;
+	color:white;
+	height:100px;
+}
+
+
+header li{
+	float:right;
+	padding:10px;
+	list-style:none;
+}
+
+.top-wrapper{
+ background-image:url("images/AdobeStock_221936162.jpeg");
+ height:400px;
+ background-size:contain;
+}
+
+.top-wrapper h2{
+	text-align:center;
+	color:white
+}
+
+footer{
+	background-color:black;
+	height:80px;
+	color:white;
+	margin-top:20px
+}
+
+footer h3{
+	float:right;
+	padding-top:40px;
+}
